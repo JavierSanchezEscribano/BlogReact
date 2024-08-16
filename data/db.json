@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": "55f7",
+      "title": "While my guitar gently weeps",
+      "body": "I look at the floor and I see it needs sweeping",
+      "author": "George Harrison"
+    },
+    {
+      "id": "1bb9",
+      "title": "Hey Jude!",
+      "body": "Dont make it bad, take a sad song and make it better",
+      "author": "Paul McCartney"
+    },
+    {
+      "id": "0159",
+      "title": "Yesterday",
+      "body": "All my troubles seems so far away",
+      "author": "John Lennon"
+    },
+    {
+      "id": "0156",
+      "title": "With a little help from my friends",
+      "body": "Would you believe in a love at first sight? Yes, I'm certain that it happens all the time",
+      "author": "Ringo Starr"
+    }
+  ]
+}
